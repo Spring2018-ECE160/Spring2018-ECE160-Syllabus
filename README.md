@@ -31,8 +31,8 @@ The best way to learn programming is through practice. There will be weekly prog
 
 Assignments will be graded with the following criteria:
 - Output: 50%
-- Code Quality: 50%
-Late submissions will receive a 10% deduction to the final grade. 
+- Code Quality: 50%  
+Note: Late submissions will receive a 10% deduction to the final grade for the assignment. 
 
 ## Schedule
 January 18  
