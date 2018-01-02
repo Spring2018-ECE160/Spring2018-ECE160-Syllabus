@@ -1,11 +1,11 @@
 # Sprint 2018 - ECE160 - Syllabus
-Programming for Electrical Engineers 
-Course Hours: Thursdays, 6PM-9PM
+Programming for Electrical Engineers  
+Course Hours: Thursdays, 6PM-9PM  
 Room: 104
 
 ## Instructor Info
-Instructor: Christopher Hong
-e-mail: hong3@cooper.edu
+Instructor: Christopher Hong  
+e-mail: hong3@cooper.edu  
 Office Hours: TBD
 
 ## Textbooks
