@@ -36,25 +36,34 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 
 ## Schedule
 January 18  
-- Course Overview, Github, Hello World, Variables
+- Course Overview, Intro to Unix, Github, Hello World, Variables and Basic Types
  
 January 26  
+- Basic Types (cont.), Order of Operations, Basic Input/Output
 
 February 1  
+- Control Flow (If-Else Statements)
 
 February 8  
+- Control Flow (Loops)
 
 February 15  
+- Functions and Program Structure
 
 February 22  
+- Pointers & Arrays
 
 March 1  
+- Pointers & Arrays
 
 March 8  
+- Structures
 
 March 22  
+- Structures
 
 March 29  
+- Input & Output
 
 April 5  
 - C++
