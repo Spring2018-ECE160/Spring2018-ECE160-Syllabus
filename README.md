@@ -60,22 +60,22 @@ March 8
 - Structures
 
 March 22  
-- Structures
+- Input and Output
 
 March 29  
-- Input & Output
+- C++
 
 April 5  
-- C++
+- C++ - Classes
 
 April 12  
-- C++
+- C++ - Classes
 
 April 19  
-- C++
+- C++ - Intro to Data Structures
 
 April 26  
-- C++
+- C++ - Intro to Algorithms
 
 May 3
 - Final Exam 
