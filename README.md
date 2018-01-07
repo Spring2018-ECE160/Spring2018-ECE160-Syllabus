@@ -11,7 +11,7 @@ Office Hours: TBD
 ## Textbooks
 Textbooks are not required for the course, but they may be useful to have. These two are the two I recommend.
 - The C Programming Language, 2nd Edition - Brian W. Kernighan & Dennis M. Ritchie
-- Thinking in C++:: Introduction to Standard C++, Volume One, 2nd Edition - Bruce Eckel  
+- Thinking in C++: Introduction to Standard C++, Volume One, 2nd Edition - Bruce Eckel  
 
 Other books that you may find useful are:
 - Computer Science: A Structured Programming Approach Using C, 3rd Edition - Behrouz A. Forouzan and Richard F. Gilberg
