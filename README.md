@@ -1,4 +1,4 @@
-# Sprint 2018 - ECE160 - Syllabus
+# Spring 2018 - ECE160 - Syllabus
 Programming for Electrical Engineers  
 Course Hours: Thursdays, 6PM-9PM  
 Room: 104
