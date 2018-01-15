@@ -21,13 +21,13 @@ Other books that you may find useful are:
 - Programming: Principles and Practice Using C++, 2nd Edition - Bjarne Stroustrup
 
 ## Grading
-- Programming Assignments: 25%
+- Programming Homework: 25%
 - Quizzes 25%
 - Final Project: 25%
 - Final Exam: 25%
 
-## Programming Assignments
-The best way to learn programming is through practice. There will be weekly programming assignments. All assignments will be committed to github by the specified deadline. You may work in pairs to complete these assignments, but if you do, make sure to have each person commit a solution to at least one problem. It is in your best interest to understand the solutions to each problem.
+## Programming Homework
+The best way to learn programming is through practice. There will be weekly programming homework. All assignments will be committed to github by the specified deadline. You may work in pairs to complete these assignments, but if you do, make sure to have each person commit a solution to at least one problem. It is in your best interest to understand the solutions to each problem.
 
 Assignments will be graded with the following criteria:
 - Output: 50%
