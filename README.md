@@ -6,7 +6,7 @@ Room: 104
 ## Instructor Info
 Instructor: Christopher Hong  
 e-mail: hong3@cooper.edu  
-Office Hours: TBD
+Office Hours: after class Thursday (9PM-10PM) and by appointment
 
 ## Textbooks
 Textbooks are not required for the course, but they may be useful to have. These two are the two I recommend.
@@ -40,7 +40,7 @@ January 18
 - Course Overview, Intro to Unix, Github, Hello World, Variables, Types, Operations
  
 January 26  
-- Conditional Statements, Basic Input/Output
+- Relational & Logical Operators, Precedence, Conditional Statements, Basic Input/Output
 
 February 1  
 - Control Flow - Loops
@@ -61,7 +61,7 @@ March 8
 - Strings
 
 March 22  
-- Debugging
+- Debugging & Testing
 
 March 29  
 - C++
