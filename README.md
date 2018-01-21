@@ -43,6 +43,7 @@ January 26
 - Relational & Logical Operators, Precedence, Conditional Statements, Basic Input/Output
 
 February 1  
+- **Quiz #1**
 - Control Flow - Loops
 
 February 8  
