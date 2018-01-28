@@ -44,7 +44,7 @@ January 26
 
 February 1  
 - **Quiz #1**
-- Control Flow - Loops
+- Loops, Basic Arrays, Input/Output
 
 February 8  
 - Input & Output, Functions and Program Structure
