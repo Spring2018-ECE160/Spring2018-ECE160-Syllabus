@@ -39,46 +39,46 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 ### January 18  
 - Course Overview, Intro to Unix, Github, Hello World, Variables, Types, Operations
  
-January 26  
+### January 26  
 - Relational & Logical Operators, Precedence, Conditional Statements, Basic Input/Output
 
-February 1  
+### February 1  
 - **Quiz #1**
 - Switch, Loops, Basic Arrays, Input/Output, Basic Functions, Tic-Tac-Toe
 
-February 8  
+### February 8  
 - More about Functions, Program Structure, Make files, Github Forks
 
-February 15  
+### February 15  
 - Pointers & Arrays
 
-February 22  
+### February 22  
 - Pointers & Arrays
 
-March 1  
+### March 1  
 - Structures
 
-March 8  
+### March 8  
 - Strings
 
-March 22  
+### March 22  
 - Debugging & Testing
 
-March 29  
-- C++
+### March 29  
+- Intro to C++
 
-April 5  
+### April 5  
 - C++ - Classes
 
-April 12  
+### April 12  
 - C++ - Classes
 
-April 19  
+### April 19  
 - C++ - Intro to Data Structures
 
-April 26  
+### April 26  
 - C++ - Intro to Algorithms
 
-May 3
+### May 3
 - Final Exam 
 - Note: Final Schedule is TBD
