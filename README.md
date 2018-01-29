@@ -36,7 +36,7 @@ Assignments will be graded with the following criteria:
 Note: Late submissions will receive a 10% deduction to the final grade for the assignment. 
 
 ## Schedule
-January 18  
+### January 18  
 - Course Overview, Intro to Unix, Github, Hello World, Variables, Types, Operations
  
 January 26  
