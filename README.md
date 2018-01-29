@@ -44,16 +44,16 @@ January 26
 
 February 1  
 - **Quiz #1**
-- Loops, Basic Arrays, Input/Output
+- Switch, Loops, Basic Arrays, Input/Output, Basic Functions, Tic-Tac-Toe
 
 February 8  
-- Input & Output, Functions and Program Structure
+- More about Functions, Program Structure, Make files, Github Forks
 
 February 15  
-- Arrays
+- Pointers & Arrays
 
 February 22  
-- Pointers
+- Pointers & Arrays
 
 March 1  
 - Structures
