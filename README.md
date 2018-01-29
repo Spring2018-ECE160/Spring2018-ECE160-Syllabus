@@ -50,18 +50,21 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - More about Functions, Program Structure, Make files, Github Forks
 
 ### February 15  
+- **Quiz #2**
 - Pointers & Arrays
 
 ### February 22  
 - Pointers & Arrays
 
 ### March 1  
+- **Quiz #3**
 - Structures
 
 ### March 8  
 - Strings
 
 ### March 22  
+- **Quiz #4**
 - Debugging & Testing
 
 ### March 29  
@@ -73,7 +76,8 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 ### April 12  
 - C++ - Classes
 
-### April 19  
+### April 19 
+- **Quiz #5**
 - C++ - Intro to Data Structures
 
 ### April 26  
