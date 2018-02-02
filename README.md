@@ -47,7 +47,7 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - Switch, Loops, Basic Arrays, Input/Output, Basic Functions, Tic-Tac-Toe
 
 ### February 8  
-- More about Functions, Program Structure, Make files, Github Forks
+- More Loops, Tic-Tac-Toe, More about Functions, Program Structure, Make files, Github Forks
 
 ### February 15  
 - **Quiz #2**
