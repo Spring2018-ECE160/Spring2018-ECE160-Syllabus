@@ -71,6 +71,7 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - Intro to C++
 
 ### April 5  
+(no quiz)
 - C++ - Classes
 
 ### April 12  
