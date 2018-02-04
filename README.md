@@ -27,7 +27,7 @@ Other books that you may find useful are:
 - Final Exam: 25%
 
 ## Programming Homework
-The best way to learn programming is through practice. There will be weekly programming homework. All assignments will be committed to github by the specified deadline. You may work in pairs to complete these assignments, but if you do, make sure to have each person commit a solution to at least one problem. It is in your best interest to understand the solutions to each problem.
+The best way to learn programming is through practice. There will be weekly programming homework. All assignments must be committed to github with a pull request by the specified deadline. You may work in pairs to complete these assignments, but if you do, make sure to have each person commit a solution to at least one problem. It is in your best interest to understand the solutions to each problem.
 
 Assignments will be graded with the following criteria:
 - Output: 50%
@@ -75,13 +75,14 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - C++ - Classes
 
 ### April 12  
+- **Quiz #5**
 - C++ - Classes
 
 ### April 19 
-- **Quiz #5**
 - C++ - Intro to Data Structures
 
-### April 26  
+### April 26 
+- **Quiz #6**
 - C++ - Intro to Algorithms
 
 ### May 3
