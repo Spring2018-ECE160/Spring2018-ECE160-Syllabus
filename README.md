@@ -51,17 +51,17 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 
 ### February 15  
 - **Quiz #2**
-- Pointers & Arrays, Github Forks
+- Pointers & Arrays
 
 ### February 22  
-- Pointers & Arrays
+- Command-line Arguments, Pointers to Functions, Intro to Structures, Github Forks
 
 ### March 1  
 - **Quiz #3**
 - Structures
 
 ### March 8  
-- Strings
+- Text Files
 
 ### March 22  
 - **Quiz #4**
