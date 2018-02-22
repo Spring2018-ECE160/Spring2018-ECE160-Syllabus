@@ -54,11 +54,11 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - Pointers & Arrays
 
 ### February 22  
-- Command-line Arguments, Pointers to Functions, Intro to Structures, Github Forks
+- Command-line Arguments, Pointers to Functions, Intro to Structures
 
 ### March 1  
 - **Quiz #3**
-- Structures
+- Structures, Github Forks
 
 ### March 8  
 - Text Files
