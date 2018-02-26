@@ -43,28 +43,28 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - Relational & Logical Operators, Precedence, Conditional Statements, Basic Input/Output
 
 ### February 1  
-- **Quiz #1**
+- **Quiz #1** - printf & conditionals
 - Switch, Loops, Basic Arrays, Input/Output, Basic Functions, Tic-Tac-Toe
 
 ### February 8  
 - More Loops, Tic-Tac-Toe, More about Functions, Program Structure, Make Files
 
 ### February 15  
-- **Quiz #2**
+- **Quiz #2** - Loops & Arrays
 - Pointers & Arrays
 
 ### February 22  
 - Command-line Arguments, Pointers to Functions, Intro to Structures
 
 ### March 1  
-- **Quiz #3**
+- **Quiz #3** - Pointers
 - Structures, Github Forks
 
 ### March 8  
-- Text Files
+- TBD: Text Files OR Intro to C++ & Classes
 
 ### March 22  
-- **Quiz #4**
+- **Quiz #4** - Structures
 - Debugging & Testing
 
 ### March 29  
@@ -75,14 +75,14 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - C++ - Classes
 
 ### April 12  
-- **Quiz #5**
+- **Quiz #5** - Classes
 - C++ - Classes
 
 ### April 19 
 - C++ - Intro to Data Structures
 
 ### April 26 
-- **Quiz #6**
+- **Quiz #6** - Basic Data Structures
 - C++ - Intro to Algorithms
 
 ### May 3
