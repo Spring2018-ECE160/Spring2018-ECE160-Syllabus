@@ -76,7 +76,7 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 
 ### April 12  
 - **Quiz #5** - Classes
-- C++ - Classes
+- C++ - Polymorphism, Virtual Functions
 
 ### April 19 
 - C++ - Intro to Data Structures
