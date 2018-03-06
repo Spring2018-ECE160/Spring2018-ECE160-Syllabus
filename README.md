@@ -61,7 +61,7 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - Structures, Github Forks
 
 ### March 8  
-- TBD: Text Files OR Intro to C++ & Classes
+- Intro to C++ & Classes
 
 ### March 22  
 - **Quiz #4** - Structures
