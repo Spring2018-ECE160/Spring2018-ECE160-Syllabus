@@ -65,14 +65,14 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 
 ### March 22  
 - **Quiz #4** - Structures
-- Debugging & Testing
+- Classes - Constructors, Destructors, Overloading, Default Arguments, Const, Inline Functions
 
 ### March 29  
-- Intro to C++
+- Classes - References, Copy Constructor, Operator Overloading, Inheritances & Composition
 
 ### April 5  
 (no quiz)
-- C++ - Classes
+- Debugging & Testing
 
 ### April 12  
 - **Quiz #5** - Classes
@@ -82,7 +82,7 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - C++ - Intro to Data Structures
 
 ### April 26 
-- **Quiz #6** - Basic Data Structures
+- **Quiz #6** - Inheritance & Basic Data Structures
 - C++ - Intro to Algorithms
 
 ### May 3
