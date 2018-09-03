@@ -71,11 +71,10 @@ Note: Late submissions will receive a 10% deduction to the final grade for the a
 - Classes - References, Copy Constructor, Operator Overloading, Inheritances & Composition
 
 ### 11/14/18  
-(no quiz)
+- **Quiz #5** - Classes
 - Debugging & Testing
 
 ### 11/28/18  
-- **Quiz #5** - Classes
 - C++ - Polymorphism, Virtual Functions
 
 ### 12/05/18  
