@@ -36,56 +36,56 @@ Assignments will be graded with the following criteria:
 Note: Late submissions will receive a 10% deduction to the final grade for the assignment. 
 
 ## Schedule
-### 09/05/18  
+### January 18  
 - Course Overview, Intro to Unix, Github, Hello World, Variables, Types, Operations
  
-### 09/12/18  
+### January 26  
 - Relational & Logical Operators, Precedence, Conditional Statements, Basic Input/Output
 
-### 09/19/18  
+### February 1  
 - **Quiz #1** - printf & conditionals
 - Switch, Loops, Basic Arrays, Input/Output, Basic Functions, Tic-Tac-Toe
 
-### 09/26/18  
+### February 8  
 - More Loops, Tic-Tac-Toe, More about Functions, Program Structure, Make Files
 
-### 10/03/18  
-- **Quiz #2** - Loops & Arrays  
+### February 15  
+- **Quiz #2** - Loops & Arrays
 - Pointers & Arrays
 
-### 10/10/18  
+### February 22  
 - Command-line Arguments, Pointers to Functions, Intro to Structures
 
-### 10/17/18  
+### March 1  
 - **Quiz #3** - Pointers
 - Structures, Github Forks
 
-### 10/24/18  
+### March 8  
 - Intro to C++ & Classes
 
-### 10/31/18  
+### March 22  
 - **Quiz #4** - Structures
 - Classes - Constructors, Destructors, Overloading, Default Arguments, Const, Inline Functions
 
-### 11/07/18  
+### March 29  
 - Classes - References, Copy Constructor, Operator Overloading, Inheritances & Composition
 
-### 11/14/18  
-- **Quiz #5** - Classes
+### April 5  
+(no quiz)
 - Debugging & Testing
 
-### 11/28/18  
+### April 12  
+- **Quiz #5** - Classes
 - C++ - Polymorphism, Virtual Functions
 
-### 12/05/18  
+### April 19 
 - **Quiz #6** - Inheritance, Polymorphism, Virtual Functions
-- C++ - Intro to Data Structures & Algorithms
+- C++ - Intro to Data Structures
 
-### 12/12/18  
-**Final Project Presentations**
+### April 26 
 - C++ - Intro to Algorithms
 
-### 12/19/18  
-**Final Exam**
-
-**All Late Homework Due**
+### May 3
+- Final Exam  
+- Final Presentations  
+- Note: Final Schedule is TBD  
